@@ -17,6 +17,9 @@
           Residential, Commercial & Turnkey Construction
           Services Across Andhra Pradesh.
         </p>
+        <p className="mt-4 text-yellow-400 font-semibold tracking-wide">
+  Est. 2001 • Trusted Construction Partner
+</p>
 
          <div className="mt-8 flex gap-4 justify-center">
   <a

@@ -9,34 +9,42 @@
           About KSR Constructions
         </h2>
 
-        <p className="text-lg text-center max-w-3xl mx-auto text-gray-300">
-          KSR Constructions is committed to delivering
-          high-quality residential, commercial, and renovation
-          projects across Andhra Pradesh. We focus on quality
-          workmanship, transparent communication, timely
-          delivery, and customer satisfaction.
+        <p className="text-lg text-center max-w-4xl mx-auto text-gray-300 leading-8">
+          At KSR Constructions, we specialize in delivering
+          high-quality residential, commercial, and turnkey
+          construction projects across Andhra Pradesh. Our
+          commitment to superior craftsmanship, transparent
+          communication, and on-time project delivery has earned
+          the trust of homeowners and businesses alike.
         </p>
 
         <div className="grid md:grid-cols-3 gap-8 mt-16">
-          <div className="text-center">
+          <div className="bg-slate-800 p-8 rounded-xl text-center">
             <h3 className="text-5xl font-bold text-yellow-400">
               50+
             </h3>
-            <p className="mt-2">Projects Completed</p>
+            <p className="mt-3 text-gray-300">
+              Projects Completed
+            </p>
           </div>
 
-          <div className="text-center">
-            <h3 className="text-5xl font-bold text-yellow-400">
-              10+
+          <div className="bg-slate-800 p-8 rounded-xl text-center">
+            <h3 className="text-4xl font-bold text-yellow-400">
+              Est. 2001
+              : 20+
             </h3>
-            <p className="mt-2">Years Experience</p>
+            <p className="mt-3 text-gray-300">
+              Years Experience
+            </p>
           </div>
 
-          <div className="text-center">
+          <div className="bg-slate-800 p-8 rounded-xl text-center">
             <h3 className="text-5xl font-bold text-yellow-400">
               100+
             </h3>
-            <p className="mt-2">Happy Clients</p>
+            <p className="mt-3 text-gray-300">
+              Happy Clients
+            </p>
           </div>
         </div>
       </div>
