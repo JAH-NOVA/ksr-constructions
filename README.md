@@ -26,10 +26,10 @@ https://ksr-constructions-amber.vercel.app
 
 ## Company Information
 
-KSR Constructions
-Established: 2001
-Location: Vijayawada, Andhra Pradesh
-Phone: 9550677417
+KSR Constructions    
+Established: 2001       
+Location: Vijayawada, Andhra Pradesh      
+Phone: 9550677417        
 Email: [srinivasarao292923@gmail.com](mailto:srinivasarao292923@gmail.com)
 
 ## Developer
