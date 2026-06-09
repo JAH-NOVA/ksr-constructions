@@ -1,16 +1,37 @@
-# React + Vite
+ # KSR Constructions Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Official website for KSR Constructions, a construction company providing residential, commercial, renovation, and turnkey construction services across south India.
+## Features
 
-Currently, two official plugins are available:
+* Modern Responsive Design
+* Construction Services Showcase
+* Company Profile & Experience
+* Project Gallery
+* Contact Information
+* Free Quote Request Form
+* EmailJS Integration
+* WhatsApp Contact Support
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Built With
 
-## React Compiler
+* React.js
+* Vite
+* Tailwind CSS
+* EmailJS
+* Vercel
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Live Website
 
-## Expanding the ESLint configuration
+https://ksr-constructions-amber.vercel.app
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Company Information
+
+KSR Constructions
+Established: 2001
+Location: Vijayawada, Andhra Pradesh
+Phone: 9550677417
+Email: [srinivasarao292923@gmail.com](mailto:srinivasarao292923@gmail.com)
+
+## Developer
+
+Developed and maintained using React and modern web technologies.
